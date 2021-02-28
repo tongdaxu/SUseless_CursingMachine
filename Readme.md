@@ -1,5 +1,6 @@
-# Repo CursingMachine (操你妈)
-* This Repo belongs to Project Studio Useless (废物工作室)
+#  操你妈机 | Mother Fucking Chatbot
+* This Repo belongs to Dump Studio (废物工作室)
+* [https://cargocollective.com/dumpstudio/](https://cargocollective.com/dumpstudio/)
 # Build and run
 ```bash
 mkdir build
